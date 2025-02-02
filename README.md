@@ -283,7 +283,8 @@ Commands & Tools Used : Wireshark, mosquitto_pub.
 <table border=4>
   <tr><th>
     
-     Advent Of Cyber'24 Certificate (Don't mind it, it's just a decorative. Real value is above 👆🏻 👴🏻)
+     Advent Of Cyber'24 Certificate
+     (Don't mind it, it's just a decorative. Real value is above 👆🏻 👴🏻)
   
   </th></tr>
   <tr><th>
